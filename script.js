@@ -5,8 +5,8 @@
 const messageComponents = {
     randomFeeling: ['feeling sad', 'being lazy', 'being dishonest', 'holding anger', 'acting like a jerk', 'felling like giving up'],
     familyMember: ['grandpa', 'grandma', 'dad', 'mom', 'dog'],
-    sayingPartOne: ['Any job worth doing', 'When the going gets tough', 'If it ain\'t broke', 'What\'s good for the goose', 'The squeaky wheel', 'A bird in the hand'],
-    sayingPartTwo: [' spoil the gravy.', ', is a penny earned', ' leave no stone unturned.', ' before they\'ve hatched.', ' is another man\'s treasure.', ' flock together.']
+    sayingPartOne: ['Any job worth doing', 'When the going gets tough', 'If it ain\'t broke', 'What\'s good for the goose', 'The squeaky wheel', 'A bird in the hand', 'A rising tide', 'You can\'t make an omelet', 'As I live and breath'],
+    sayingPartTwo: [' spoil the gravy.', ', is a penny earned', ' leave no stone unturned.', ' before they\'ve hatched.', ' is another man\'s treasure.', ' flock together.', ' in one basket.', ' over spilt milk.', ' far from the tree.']
 };
 //Test >> console.log(messageComponents.randomFeeling[3]);
 
