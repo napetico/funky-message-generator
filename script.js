@@ -22,3 +22,9 @@ for (let componentsArray in messageComponents) {
         messageArray[2] = 'Woof, woof, arf';
 }
 // Test >> console.log(messageArray);
+
+// Create the message and print it
+
+let funkyMessage = `Everytime I was ${messageArray[0]}, my ${messageArray[1]} used to say to me: "${messageArray[2]}${messageArray[3]}". Such wise words (LOL).`
+
+console.log(funkyMessage);
